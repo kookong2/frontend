@@ -1,0 +1,20 @@
+주석 : ctrl + / 
+사이드바 토글 : ctrl + b
+전체 선택 : ctrl + a
+코드 복원 : ctrl + y
+검색 : ctrl + f
+프로젝트 폴더 전체 검색 : ctrl + shift + f
+빠른 행 이동 : ctrl + g
+일치 단어 선택 : ctrl + d     한번에 일치 단어 선택 : ctrl + shift + l
+부분 선택 : alt + 마우스 클릭
+라인 이동 : alt + 방향키 위 아래
+라인 복사 : alt + shift + 위 아래
+페이지 상단/하단 이동 : ctrl + home/end
+다음 행 삽입 : ctrl + enter
+비쥬얼 코드 내 단축키 검색 : ctrl + k + s
+문장 앞/뒤 부분으로 이동 : home/end
+단어 별로 이동: ctrl + 방향키 좌 우
+한 단어 선택 : ctrl + shift + 방향키 좌 우
+이전에 있던 커서 위치로 이동 : ctrl + u
+
+
