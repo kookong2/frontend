@@ -150,7 +150,7 @@ function dropBlock(){
 } 
 
 function showGameoverText(){
-    gameText.style.diplay = "flex";
+    gameText.style.display = "flex";
 }
 
 // Event Handling
@@ -178,6 +178,6 @@ document.addEventListener("keydown", e => {
 
 restartButton.addEventListener("click", ()=>{
     playground.innerHTML = "";
-    gameText.style.diplay = "none";
+    gameText.style.display = "none";
     init();
 })
